@@ -14,7 +14,7 @@ I found this project while browsing Reddit and it looks like the original creato
 * Check the [http-server documentation](https://www.npmjs.com/package/http-server).
 
 * Navigate to your projects directory and use git clone to make a copy.
-git clone [https://github.com/utkarshbhatt12/redditlint](https://github.com/utkarshbhatt12/redditlint)
+`git clone https://github.com/utkarshbhatt12/redditlint`
 
 * `cd` to the `redditlint` folder and type the following
 `http-server .`
